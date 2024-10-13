@@ -62,7 +62,6 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 
 | Project Name       | Description                                         | Technologies     | Live Demo  | Repository |
 |-------------------|-----------------------------------------------------|------------------|------------|------------|
-| **Portfolio Website** | A personal website to showcase my work and skills. | React, Tailwind  | [Live](https://yourportfolio.com) | [Repo](https://github.com/yourusername/portfolio) |
 | **E-commerce App** | A simple e-commerce app with add to cart feature with local storage support. | React, Redux, Firebase | [Live](https://shopwaveecom.netlify.app/) | [Repo](https://github.com/Rajeshsharma-123/ShopWave-ecommerce_site-) |
 
 
@@ -74,8 +73,8 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeshsharma-123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshsharma-123&layout=compact&theme=radical)
 
 </div>
 
@@ -85,10 +84,9 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 
 <div align="center">
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajeshsharma-123)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-sharma-0b7a7630b)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rajesh078078728)
 
 </div>
 
