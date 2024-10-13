@@ -63,8 +63,7 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 | Project Name       | Description                                         | Technologies     | Live Demo  | Repository |
 |-------------------|-----------------------------------------------------|------------------|------------|------------|
 | **Portfolio Website** | A personal website to showcase my work and skills. | React, Tailwind  | [Live](https://yourportfolio.com) | [Repo](https://github.com/yourusername/portfolio) |
-| **E-commerce App** | A simple e-commerce app with add to cart feature with local storage support. | React, Redux, Firebase | [Live](https://shopwaveecom.netlify.app/) | [Repo](https://github.com/
-Rajeshsharma-123/ShopWave-ecommerce_site-) |
+| **E-commerce App** | A simple e-commerce app with add to cart feature with local storage support. | React, Redux, Firebase | [Live](https://shopwaveecom.netlify.app/) | [Repo](https://github.com/Rajeshsharma-123/ShopWave-ecommerce_site-) |
 
 
 </div>
