@@ -6,7 +6,6 @@
 
 **Frontend Developer | React.js Enthusiast | Tailwind CSS Fan | C++ Programmer**
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen) [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
 </div>
 
@@ -64,8 +63,9 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 | Project Name       | Description                                         | Technologies     | Live Demo  | Repository |
 |-------------------|-----------------------------------------------------|------------------|------------|------------|
 | **Portfolio Website** | A personal website to showcase my work and skills. | React, Tailwind  | [Live](https://yourportfolio.com) | [Repo](https://github.com/yourusername/portfolio) |
-| **E-commerce App** | A simple e-commerce app with user authentication. | React, Redux, Firebase | [Live](https://yourapp.com) | [Repo](https://github.com/yourusername/ecommerce-app) |
-| **Weather App**    | A weather app using OpenWeatherMap API.             | React, API       | [Live](https://weatherapp.com) | [Repo](https://github.com/yourusername/weather-app) |
+| **E-commerce App** | A simple e-commerce app with add to cart feature with local storage support. | React, Redux, Firebase | [Live](https://shopwaveecom.netlify.app/) | [Repo](https://github.com/
+Rajeshsharma-123/ShopWave-ecommerce_site-) |
+
 
 </div>
 
