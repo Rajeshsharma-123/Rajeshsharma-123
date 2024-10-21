@@ -31,7 +31,6 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -61,7 +60,7 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 
 | Project Name       | Description                                         | Technologies     | Live Demo  | Repository |
 |-------------------|-----------------------------------------------------|------------------|------------|------------|
-| **E-commerce App** | A simple e-commerce app with add to cart feature with local storage support. | React, Redux, Firebase | [Live](https://shopwaveecom.netlify.app/) | [Repo](https://github.com/Rajeshsharma-123/ShopWave-ecommerce_site-) |
+| **E-commerce App** | A simple e-commerce app with add to cart feature with local storage support. | vanilla javascript| [Live](https://shopwaveecom.netlify.app/) | [Repo](https://github.com/Rajeshsharma-123/ShopWave-ecommerce_site-) |
 
 
 </div>
