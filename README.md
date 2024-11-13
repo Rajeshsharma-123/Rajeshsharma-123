@@ -71,7 +71,7 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeshsharma-123&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeshsharma-123&show_icons=true&hide_rank=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshsharma-123&layout=compact&theme=radical)
 
 </div>
