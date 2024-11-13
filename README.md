@@ -71,9 +71,8 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 
 <div align="center">
 
-## ![GitHub Logo](https://github.com/fluidicon.png =20x20) My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeshsharma-123&show_icons=true&theme=radical&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshsharma-123&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshsharma-123&layout=compact&theme=radical&hide-lang=html)
 
 
 
