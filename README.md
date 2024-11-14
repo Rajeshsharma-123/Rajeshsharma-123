@@ -61,6 +61,7 @@ I'm a passionate frontend developer with a keen eye for crafting intuitive and r
 | Project Name       | Description                                         | Technologies     | Live Demo  | Repository |
 |-------------------|-----------------------------------------------------|------------------|------------|------------|
 | **E-commerce App** | A simple e-commerce app with add to cart feature with local storage support. | vanilla javascript| [Live](https://shopwaveecom.netlify.app/) | [Repo](https://github.com/Rajeshsharma-123/ShopWave-ecommerce_site-) |
+| **Employee Dashboard** | Employee/ Admin Dashboard in which admin can create a task for employees. | React js | [Live](https://employeedashboard-psi.vercel.app) | [Repo]([https://github.com/Rajeshsharma-123/employee-dashboard)] |
 
 
 </div>
