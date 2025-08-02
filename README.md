@@ -69,21 +69,6 @@ I also have experience in **C++** for competitive programming and love exploring
 
 </div>
 
----
-
-## 💻 Featured Projects
-
-<div align="center">
-
-| Project Name       | Description                                         | Technologies     | Live Demo  | Repository |
-|-------------------|-----------------------------------------------------|------------------|------------|------------|
-| **E-commerce App** | A simple e-commerce app with add to cart feature and local storage support. | Vanilla JS | [Live](https://shopwaveecom.netlify.app/) | [Repo](https://github.com/Rajeshsharma-123/ShopWave-ecommerce_site-) |
-| **Employee Dashboard** | Admin dashboard where tasks can be assigned to employees. | React.js | [Live](https://employeedashboard-psi.vercel.app) | [Repo](https://github.com/Rajeshsharma-123/employee-dashboard) |
-| **Personal Portfolio** | My portfolio showcasing skills and projects. | React.js | [Live](https://rajesharma.tech) | [Repo](https://github.com/Rajeshsharma-123/portfolio) |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
