@@ -14,14 +14,14 @@
 
 I'm a passionate **Fullstack Developer** in the making, focused on building smooth, scalable, and user-friendly web applications. My current stack includes:
 
-- **Frontend**: React.js, JavaScript, Tailwind CSS, HTML, CSS  
+- **Frontend**: React.js, JavaScript, Tailwind CSS
 - **Backend**: Node.js and currently learning Express.js and MongoDB
 
 I also have experience in **C++** for competitive programming and love exploring new web trends.
 
-- 🌱 Currently learning: **Express.js**, **MongoDB**, and **Flask** to strengthen my backend development.
+- 🌱 Currently learning: Next js to strengthen my Fullstack development journey.
 - 👯 Looking to collaborate on **React.js** or beginner-friendly **fullstack** projects.
-- 🥅 2024 Goals: Contribute to open-source, complete MERN stack projects, and build a strong portfolio.
+- 🥅 2025 Goals: Contribute to open-source, complete MERN stack projects, and build a strong portfolio.
 - ⚡ Fun fact: I enjoy adding micro-interactions and animations to boost UX.
 
 ---
