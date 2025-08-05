@@ -74,7 +74,7 @@ I also have experience in **C++** for competitive programming and love exploring
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeshsharma-123&show_icons=true&theme=radical&hide_rank=true)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-1234-blue)![Total Commits](https://img.shields.io/badge/Total%20Commits-1234-blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshsharma-123&layout=compact&theme=radical&hide_langs_below=1)
 
 </div>
