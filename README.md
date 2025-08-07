@@ -21,20 +21,19 @@
       <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="Coding" width="100%" style="border-radius: 8px;" />
     </td>
     <td>
-      <p>
-        I'm a <strong>Fullstack Developer</strong> focused on building performant, scalable, and user-centric web applications. <br><br>
-        Proficient in the <strong>Next.js + Express.js</strong> stack, with hands-on experience in both <strong>MongoDB</strong> and <strong>PostgreSQL</strong>.
-      </p>
 
-      <ul>
-        <li>🧠 Clean architecture & REST API development</li>
-        <li>🎨 Responsive UI design with Tailwind CSS</li>
-        <li>🚀 Turning ideas into real-world fullstack products</li>
-        <li>🛠️ Always learning new tools and patterns</li>
-      </ul>
-    </td>
+I'm a **Fullstack Developer** focused on building performant, scalable, and user-centric web applications.  
+Proficient in the **Next.js + Express.js** stack, with hands-on experience in both **MongoDB** and **PostgreSQL**.
+
+- 🧠 Clean architecture & REST API development  
+- 🎨 Responsive UI design with Tailwind CSS  
+- 🚀 Turning ideas into real-world fullstack products  
+- 🛠️ Always learning new tools and patterns  
+
+   </td>
   </tr>
 </table>
+
 
 ---
 
