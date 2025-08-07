@@ -14,19 +14,27 @@
 ---
 
 ## 🚀 About Me
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-I'm a passionate **Fullstack Developer** in the making, focused on building smooth, scalable, and user-friendly web applications. My current stack includes:
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="Coding" width="100%" style="border-radius: 8px;" />
+    </td>
+    <td>
+      <p>
+        I'm a <strong>Fullstack Developer</strong> focused on building performant, scalable, and user-centric web applications. <br><br>
+        Proficient in the <strong>Next.js + Express.js</strong> stack, with hands-on experience in both <strong>MongoDB</strong> and <strong>PostgreSQL</strong>.
+      </p>
 
-- **Frontend**: React.js, Next js, JavaScript, Tailwind CSS
-- **Backend**: Node.js and currently learning Express.js and MongoDB
-
-I also have experience in **C++** for competitive programming and love exploring new web trends.
-
-- 🌱 Currently learning: Next js to strengthen my Fullstack development journey.
-- 👯 Looking to collaborate on **React.js** or beginner-friendly **fullstack** projects.
-- 🥅 2025 Goals: Contribute to open-source, complete MERN stack projects, and build a strong portfolio.
-- ⚡ Fun fact: I enjoy adding micro-interactions and animations to boost UX.
+      <ul>
+        <li>🧠 Clean architecture & REST API development</li>
+        <li>🎨 Responsive UI design with Tailwind CSS</li>
+        <li>🚀 Turning ideas into real-world fullstack products</li>
+        <li>🛠️ Always learning new tools and patterns</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
