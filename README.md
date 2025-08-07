@@ -7,13 +7,14 @@
 # Hi there, I'm RAJESH 👋
 
 **Fullstack Developer (MERN Stack Learner) | React.js Enthusiast | Tailwind CSS Fan**
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+
 
 </div>
 
 ---
 
 ## 🚀 About Me
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 I'm a passionate **Fullstack Developer** in the making, focused on building smooth, scalable, and user-friendly web applications. My current stack includes:
 
